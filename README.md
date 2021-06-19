@@ -15,8 +15,15 @@
 
 🔺 **Step 4:** 
 -Find the object who has red color,then measure length and width
+
+🔺 **Step 5:** 
 -Fill your measured values with known_width and known_distance
--upload a photo named 'resim.jpg'(in this photo there could be some other things or you can be seen thats not problem)
+
+🔺 **Step 6:** 
+-Upload a photo named 'resim.jpg'(in this photo there could be some other things or you can be seen thats not problem)
+
+🔺 WARNİNG!
+-Distance measurement is not 100% accurate. Accuracy is higher for objects closer to the length and width of the object you are measuring.
 
 A view from the project: ![Mask RCNN Sample](tick.png "Mask RCNN Sample")
 
