@@ -3,6 +3,8 @@
 **Attention❗️** 
 * This application was made for the 2021 UAV competition, it is strictly forbidden to use it in any competition.
 * The purpose of this application is to detect red colored objects and determine the appropriate distance to it.
+* Distance measurement is not 100% accurate. Accuracy is higher for objects closer to the length and width of the object you are measuring.
+
 
 🔺 **Step 1:** Download nececary npm 
 >npm install opencv [More informations about cv2][cv2]
@@ -22,8 +24,6 @@ in width_distance file fill your measured values with known_width and known_dist
 🔺 **Step 6:** 
 Upload a photo named 'resim.jpg'(in this photo there could be some other things or you can be seen thats not problem)
 
-🔺 WARNİNG!
-Distance measurement is not 100% accurate. Accuracy is higher for objects closer to the length and width of the object you are measuring.
 
 A view from the project: ![Mask RCNN Sample](tick.png "Mask RCNN Sample")
 
