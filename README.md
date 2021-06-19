@@ -14,9 +14,9 @@
 >git clone https://github.com/mustafakendiguzel/OPENCV-DetectingColor-FindingDistance.git
 
 🔺 **Step 4:** 
->Find the object who has red color,then measure length and width
->Fill your measured values with known_width and known_distance
->upload a photo named 'resim.jpg'(in this photo there could be some other things or you can be seen thats not problem)
+-Find the object who has red color,then measure length and width
+-Fill your measured values with known_width and known_distance
+-upload a photo named 'resim.jpg'(in this photo there could be some other things or you can be seen thats not problem)
 
 A view from the project: ![Mask RCNN Sample](tick.png "Mask RCNN Sample")
 
