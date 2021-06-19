@@ -1,4 +1,4 @@
-## Step By Step Mask RCNN Installation
+## Step By Step DetectingColor-FindingDistance Installation
 
 **Attention❗️** 
 * This application was made for the 2021 UAV competition, it is strictly forbidden to use it in any competition.
