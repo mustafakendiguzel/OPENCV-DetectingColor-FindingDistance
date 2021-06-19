@@ -18,7 +18,7 @@
 >Fill your measured values with known_width and known_distance
 >upload a photo named 'resim.jpg'(in this photo there could be some other things or you can be seen thats not problem)
 
-A view from the project: ![Mask RCNN Sample](sample.png "Mask RCNN Sample")
+A view from the project: ![Mask RCNN Sample](tick.png "Mask RCNN Sample")
 
 [cv2]: https://www.npmjs.com/package/opencv2
 [numpy]: https://numpy.org/install/
