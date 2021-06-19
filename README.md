@@ -42,4 +42,4 @@ For CPU: tensorflow:1.14.0, keras:2.0.8, h5py:2.10.0
 🔺 **Step 8:** Let's run it on the Jupyter notebook.
 >jupyter notebook
 
-A view from the project: ![Mask RCNN Sample](Sample.png "Mask RCNN Sample")
+A view from the project: ![Mask RCNN Sample](sample.png "Mask RCNN Sample")
