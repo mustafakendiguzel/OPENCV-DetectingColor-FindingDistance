@@ -14,10 +14,10 @@
 >git clone https://github.com/mustafakendiguzel/OPENCV-DetectingColor-FindingDistance.git
 
 🔺 **Step 4:** 
--Find the object who has red color,then measure length and width
+Find the object who has red color,then measure length and width
 
 🔺 **Step 5:** 
--Fill your measured values with known_width and known_distance
+in width_distance file fill your measured values with known_width and known_distance
 
 🔺 **Step 6:** 
 -Upload a photo named 'resim.jpg'(in this photo there could be some other things or you can be seen thats not problem)
