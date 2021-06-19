@@ -2,6 +2,8 @@
 
 import cv2
 import numpy as np
+from width_distance import * 
+
 
 kam = cv2.VideoCapture(0)
 foto = cv2.imread('resim.jpg')
@@ -39,9 +41,6 @@ def foto_cevirme(fotogir):
 
     res1 = cv2.bitwise_and(fotogir,fotogir,mask=mask1)
     cv2.imshow("foto",fotogir)
-
-known_distance = 40  
-known_width = 20   
  
 def focal_length(measured_distance, real_width, width_in_rf_image):
    focal_length = (width_in_rf_image * measured_distance)/ real_width
