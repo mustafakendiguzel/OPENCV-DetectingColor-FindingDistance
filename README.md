@@ -17,5 +17,5 @@
 
 A view from the project: ![Mask RCNN Sample](sample.png "Mask RCNN Sample")
 
-cv2: https://www.npmjs.com/package/opencv2
-numpy: https://numpy.org/install/
+[cv2]: https://www.npmjs.com/package/opencv2
+[numpy]: https://numpy.org/install/
