@@ -7,7 +7,7 @@
 
 
 🔺 **Step 1:** Download nececary npm 
->npm install opencv [More informations about cv2][cv2]
+>pip install opencv-python[More informations about cv2][cv2]
 
 🔺 **Step 2:** İnstall nececary pip
 >pip install numpy [More informations about numpy][numpy]
